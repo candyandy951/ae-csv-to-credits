@@ -21,13 +21,13 @@ The comp that the script creates will be one frame in duration. This is because 
 ## Setup:
 You MUST have "Allow Scripts to Write Files and Access Network" toggled ON in the Preferences>Scripting & Expressions menu for this script to function correctly
 
-<img width="450" alt="Scripting Preferences Window with Top Toggle (Allow Scripts to Write Files and Access Network) highlighted" src="https://user-images.githubusercontent.com/59343247/174502417-517bea39-da28-45c0-a665-d554964c6f8a.png">
+<img width="419" alt="Scripting Preferences Window with Top Toggle (Allow Scripts to Write Files and Access Network) highlighted" src="https://user-images.githubusercontent.com/59343247/174502417-517bea39-da28-45c0-a665-d554964c6f8a.png">
 
 
 ## How to Use:
 The script will open a new window, in this window you will specify the details of your credits, the CSV format, set fonts, colors, etc.
 The default settings will work well for creating credits in a 1920px wide comp, however once you start changing more than colors, you may want to do a couple test runs by limiting the number of CSV rows used just to make sure the credits look how you want them to aesthetically. More on that below in the "CSV Info" section.
-<img width="766" alt="Image of the default script window" src="https://user-images.githubusercontent.com/59343247/174394842-366fbbd4-6418-4786-90a4-741a5df807d0.png">
+<img width="450" alt="Image of the default script window" src="https://user-images.githubusercontent.com/59343247/174394842-366fbbd4-6418-4786-90a4-741a5df807d0.png">
 
 ###### General Info Panel
 <img width="419" alt="General Info Panel with 1 Column toggled" src="https://user-images.githubusercontent.com/59343247/174502562-0e5df256-c6ee-479d-9c36-12c602313ccc.png">

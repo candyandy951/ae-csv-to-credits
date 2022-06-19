@@ -21,7 +21,7 @@ The comp that the script creates will be one frame in duration. This is because 
 ## Setup:
 You MUST have "Allow Scripts to Write Files and Access Network" toggled ON in the Preferences>Scripting & Expressions menu for this script to function correctly
 
-<img width="500" alt="Scripting Preferences Window with Top Toggle (Allow Scripts to Write Files and Access Network) highlighted" src="https://user-images.githubusercontent.com/59343247/174502417-517bea39-da28-45c0-a665-d554964c6f8a.png">
+<img width="450" alt="Scripting Preferences Window with Top Toggle (Allow Scripts to Write Files and Access Network) highlighted" src="https://user-images.githubusercontent.com/59343247/174502417-517bea39-da28-45c0-a665-d554964c6f8a.png">
 
 
 ## How to Use:

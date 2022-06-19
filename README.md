@@ -18,6 +18,10 @@ The comp that the script creates will be one frame in duration. This is because 
 - Open the script from the After Effects "File>Scripts>Run Script File..." menu
 - OR copy the script file into your After Effects plugin folder to quick select it from the File>Scripts menu.
 
+## Setup:
+You MUST have "Allow Scripts to Write Files and Access Network" toggled ON in the Preferences>Scripting & Expressions menu for this script to function correctly
+
+
 ## How to Use:
 The script will open a new window, in this window you will specify the details of your credits, the CSV format, set fonts, colors, etc.
 <img width="766" alt="Image of the default script window" src="https://user-images.githubusercontent.com/59343247/174394842-366fbbd4-6418-4786-90a4-741a5df807d0.png">

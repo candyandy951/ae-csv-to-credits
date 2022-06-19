@@ -884,7 +884,7 @@ function getFontName(fontEditTextBox, getFontButton, specFont){
     };
 
     if(fontCompChecker == true){
-        alert("There's already an active font chooser comp!");
+        alert("There's already an active font chooser comp! Click 'Done' in the script window before choosing another font.");
     }else if(fontCompChecker == false && getFontButton.text == "Choose Font..."){
         fontGetterComp = app.project.items.addComp("Font Chooser Comp", 1920, 1080, 1, 0.01, 60);
         fontGetterComp.openInViewer();

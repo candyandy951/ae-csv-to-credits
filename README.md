@@ -2,18 +2,18 @@
 Have you ever had a client ask you to make a credits reel for their video and hand you a MASSIVE excel document full of names? Nobody has time to re-type or even copy-paste all those names into a text box in Premiere or After Effects and try to clunkily animate it! Fortunately, this script can help take that spreadsheet and quickly turn it into a credits reel that's all ready to animate!
 
 # Index:
-[**Overview**](https://github.com/candyandy951/ae-csv-to-credits#overview)
-   [How it Works](https://github.com/candyandy951/ae-csv-to-credits#how-it-works)
-   [Additional Details](https://github.com/candyandy951/ae-csv-to-credits#additional-details)
-[**Installation**](https://github.com/candyandy951/ae-csv-to-credits#installation)
-[**Setup**](https://github.com/candyandy951/ae-csv-to-credits#setup)
-[**How To Use**](https://github.com/candyandy951/ae-csv-to-credits#how-to-use)
-   [General Info Panel](https://github.com/candyandy951/ae-csv-to-credits#general-info-panel)
-   [CSV Info Panel](https://github.com/candyandy951/ae-csv-to-credits#csv-info-panel)
-   [Name/Subtitle Text Options](https://github.com/candyandy951/ae-csv-to-credits#namesubtitle-text-options)
-[**Appendix**](https://github.com/candyandy951/ae-csv-to-credits#appendix)
-   [Changing the Character Used as List Separator in Excel on Windows 10](https://github.com/candyandy951/ae-csv-to-credits#changing-the-character-used-as-list-separator-in-excel-on-windows-10)
-   [**Color Picker Credit**](https://github.com/candyandy951/ae-csv-to-credits#color-picker-credit)
+- [**Overview**](https://github.com/candyandy951/ae-csv-to-credits#overview)
+  - [How it Works](https://github.com/candyandy951/ae-csv-to-credits#how-it-works)
+  - [Additional Details](https://github.com/candyandy951/ae-csv-to-credits#additional-details)
+- [**Installation**](https://github.com/candyandy951/ae-csv-to-credits#installation)
+- [**Setup**](https://github.com/candyandy951/ae-csv-to-credits#setup)
+- [**How To Use**](https://github.com/candyandy951/ae-csv-to-credits#how-to-use)
+  - [General Info Panel](https://github.com/candyandy951/ae-csv-to-credits#general-info-panel)
+  - [CSV Info Panel](https://github.com/candyandy951/ae-csv-to-credits#csv-info-panel)
+  - [Name/Subtitle Text Options](https://github.com/candyandy951/ae-csv-to-credits#namesubtitle-text-options)
+- [**Appendix**](https://github.com/candyandy951/ae-csv-to-credits#appendix)
+  - [Changing the Character Used as List Separator in Excel on Windows 10](https://github.com/candyandy951/ae-csv-to-credits#changing-the-character-used-as-list-separator-in-excel-on-windows-10)
+  - [**Color Picker Credit**](https://github.com/candyandy951/ae-csv-to-credits#color-picker-credit)
 
 # Overview:
 **How it Works**

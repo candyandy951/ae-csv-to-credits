@@ -13,7 +13,7 @@ Have you ever had a client ask you to make a credits reel for their video and ha
   - [Name/Subtitle Text Options](https://github.com/candyandy951/ae-csv-to-credits#namesubtitle-text-options)
 - [**Appendix**](https://github.com/candyandy951/ae-csv-to-credits#appendix)
   - [Changing the Character Used as List Separator in Excel on Windows 10](https://github.com/candyandy951/ae-csv-to-credits#changing-the-character-used-as-list-separator-in-excel-on-windows-10)
-  - [**Color Picker Credit**](https://github.com/candyandy951/ae-csv-to-credits#color-picker-credit)
+  - [Color Picker Credit](https://github.com/candyandy951/ae-csv-to-credits#color-picker-credit)
 
 # Overview:
 **How it Works**

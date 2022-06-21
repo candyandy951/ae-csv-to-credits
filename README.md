@@ -5,6 +5,7 @@ Have you ever had a client ask you to make a credits reel for their video and ha
 
 ## Tip Jar
 If you like this script and it saves time on your projects, consider sending me a [**tip**](https://www.paypal.com/donate/?business=SZVLFTXPW86EQ&no_recurring=0&item_name=If+you+like+the+things+I+do+or+make%2C+consider+throwing+some+money+at+me%21+Or+not%2C+I+can%27t+control+what+you+do+with+your+life%21&currency_code=USD)!
+
 (https://www.paypal.com/donate/?business=SZVLFTXPW86EQ&no_recurring=0&item_name=If+you+like+the+things+I+do+or+make%2C+consider+throwing+some+money+at+me%21+Or+not%2C+I+can%27t+control+what+you+do+with+your+life%21&currency_code=USD)
 
 # Index:

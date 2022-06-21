@@ -18,14 +18,14 @@ Have you ever had a client ask you to make a credits reel for their video and ha
   - [Color Picker Credit](https://github.com/candyandy951/ae-csv-to-credits#color-picker-credit)
 
 # Overview:
-**How it Works**
+## How it Works
 
 This is specifically an **AFTER EFFECTS** script, it is not designed to work with any other Adobe apps, in fact I have no idea what it will do if you try to open it in a different Adobe app (probably just not work).
 
 This script is designed to create a new comp at a width that the user specifies, the height of the comp will be determined automatically based on the number of name entries. The script inserts a new text layer for each name and subtitle entry, and pulls the data from the CSV to put in those text boxes. The great part about using this script to insert CSV data into text boxes as opposed to using an expression to read a CSV file is that the text is directly editable in After Effects after the script runs. The downside is if names need to be added or removed, you'll need to run the script again with an updated CSV (or mess with manually trying to move the text layers around).
 The comp that the script creates will be one frame in duration. This is because once you start running this script with lists of names 50+ names long you can quickly start bogging AE down with all the layers. The intention of this script is to have you render this single frame comp as a PNG with transparency (use the PNG Sequence render module), then re-import that PNG back into AE to do any scrolling animation needed.
 
-**Additional Details**
+## Additional Details
 - This script is meant to be used to create "walls of names" as opposed to a more basic name & position side-by-side style of credits.
 - This script is currently only capable of pulling 3 columns of information from a CSV, a first name, a last name, and a subtitle. Not all 3 need to be used and the script is mildly friendly to mixing and matching these three attributes.
 - This script expects you to have a CSV of your names and titles prepared ahead of time, it will not create a CSV from a spreadsheet document for you. Fortunately it's pretty easy to export CSVs from most spreadsheet editors.

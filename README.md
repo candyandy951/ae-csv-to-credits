@@ -71,7 +71,7 @@ The default settings will work well for creating credits in a 1920px wide comp, 
 ## Name/Subtitle Text Options
 <img width="500" alt="Name and Subtitle Text Options - Defaults" src="https://user-images.githubusercontent.com/59343247/174634218-ba83989d-59f5-49da-9692-999dae7331c6.png">
 
-*The Subtitle Text Options only appear when "Is There a Subtitle Columns" is checked*
+*The Subtitle Text Options only appear when "Is There a Subtitle Column" is checked*
 
 1. **Name/Subtitle Font** - This is a text box where you specify the name of the font you want your Name/Subtitle to be in. However, it is not advised that you manually type the font name in, since After Effects can be touchy about what certain fonts are actually named. Instead, it is recommended that you use the "Choose Font..." button. This button will generate a new comp in your project called "Font Chooser Comp", this new comp will have one text layer on it with instructional text. Alter the font family and font style of the text layer to what you want, then click "Done" in the script window. The script will pull the font family and style information from the text layer and insert the name of the font in the text box so you don't have to. *NOTE: ONLY the font family and font style information is captured from the text layer, if you change the color, font size, leading, or any other attribute of the text layer, the script will NOT retain that information. The Font Chooser Comp is ONLY for choosing a font, nothing else!
 2. **Name/Subtitle Font Size** - Set the font size of the name/subtitle entries

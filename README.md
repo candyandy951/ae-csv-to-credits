@@ -1,6 +1,8 @@
 # Turning CSVs into Credits made easy!
 Have you ever had a client ask you to make a credits reel for their video and hand you a MASSIVE excel document full of names? Nobody has time to re-type or even copy-paste all those names into a text box in Premiere or After Effects and try to clunkily animate it! Fortunately, this script can help take that spreadsheet and quickly turn it into a credits reel that's all ready to animate!
 
+![Demo Full](https://user-images.githubusercontent.com/59343247/174834909-ad52ab44-fbce-4bb8-bda0-aaa343d9bfc2.png)
+
 # Index:
 - [**Overview**](https://github.com/candyandy951/ae-csv-to-credits#overview)
   - [How it Works](https://github.com/candyandy951/ae-csv-to-credits#how-it-works)

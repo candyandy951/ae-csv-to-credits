@@ -30,7 +30,7 @@ The comp that the script creates will be one frame in duration. This is because 
 # Installation:
 - Download the latest .jsx release file.
 - Open the script from the After Effects "File>Scripts>Run Script File..." menu
-- OR copy the script file into your After Effects plugin folder to quick select it from the File>Scripts menu.
+- OR copy the script file into your After Effects scripts folder to quick select it from the File>Scripts menu.
 
 # Setup:
 You MUST have "Allow Scripts to Write Files and Access Network" toggled ON in the Preferences>Scripting & Expressions menu for this script to function correctly

@@ -19,6 +19,7 @@ Have you ever had a client ask you to make a credits reel for their video and ha
 
 # Overview:
 **How it Works**
+
 This is specifically an **AFTER EFFECTS** script, it is not designed to work with any other Adobe apps, in fact I have no idea what it will do if you try to open it in a different Adobe app (probably just not work).
 
 This script is designed to create a new comp at a width that the user specifies, the height of the comp will be determined automatically based on the number of name entries. The script inserts a new text layer for each name and subtitle entry, and pulls the data from the CSV to put in those text boxes. The great part about using this script to insert CSV data into text boxes as opposed to using an expression to read a CSV file is that the text is directly editable in After Effects after the script runs. The downside is if names need to be added or removed, you'll need to run the script again with an updated CSV (or mess with manually trying to move the text layers around).

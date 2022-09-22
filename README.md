@@ -4,9 +4,9 @@ Have you ever had a client ask you to make a credits reel for their video and ha
 ![Demo Full](https://user-images.githubusercontent.com/59343247/174834909-ad52ab44-fbce-4bb8-bda0-aaa343d9bfc2.png)
 
 ## Tip Jar
-If you like this script and it saves time on your projects, consider sending me a [**tip**](https://paypal.me/candyandy951?country.x=US&locale.x=en_US)!
+If you like this script and it saves time on your projects, consider sending me a [**tip**](https://ko-fi.com/candyandy951)!
 
-(https://paypal.me/candyandy951?country.x=US&locale.x=en_US)
+(https://ko-fi.com/candyandy951)
 
 # Index:
 - [**Overview**](https://github.com/candyandy951/ae-csv-to-credits#overview)
